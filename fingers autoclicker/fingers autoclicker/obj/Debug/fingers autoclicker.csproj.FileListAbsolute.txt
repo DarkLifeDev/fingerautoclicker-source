@@ -1,0 +1,10 @@
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\bin\Debug\fingers autoclicker.exe.config
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\bin\Debug\fingers autoclicker.exe
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\bin\Debug\fingers autoclicker.pdb
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers_autoclicker.Form1.resources
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers_autoclicker.Properties.Resources.resources
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers autoclicker.csproj.GenerateResource.cache
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers autoclicker.exe
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers autoclicker.pdb
+C:\Users\kenne\Documents\Trabajo de programacion\fingers autoclicker\fingers autoclicker\obj\Debug\fingers autoclicker.csproj.AssemblyReference.cache
